@@ -1,0 +1,14 @@
+{
+    "name": "ahsan/php-simple-apps",
+    "description": "Project simple PHP untuk Referensi",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ahmad Susanto",
+            "email": "ahmadsusanto912@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8"
+    }
+}
